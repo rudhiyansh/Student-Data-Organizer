@@ -110,48 +110,6 @@ View all subjects assigned to each student.
 
 ---
 
-# 📸 Project Screenshots
-
-## 🏠 Home Screen
-
-<p align="center">
-<img src="assets/home-screen.png" width="850">
-</p>
-
----
-
-## ➕ Add Student
-
-<p align="center">
-<img src="assets/add-student.png" width="850">
-</p>
-
----
-
-## 📋 Display Students
-
-<p align="center">
-<img src="assets/display-students.png" width="850">
-</p>
-
----
-
-## ✏️ Update Student
-
-<p align="center">
-<img src="assets/update-student.png" width="850">
-</p>
-
----
-
-## ❌ Delete Student
-
-<p align="center">
-<img src="assets/delete-student.png" width="850">
-</p>
-
----
-
 # 📖 Sample Menu
 
 ```text
