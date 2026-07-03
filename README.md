@@ -1,15 +1,5 @@
 # 🎓 Student Data Organizer
 
-<div align="center">
-
-A **Python Command-Line Student Management System** that allows users to **add, display, update, and delete student records** using Python's built-in data structures.
-
-[![Python](https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python)](https://www.python.org/)
-[![Status](https://img.shields.io/badge/Project-Completed-success?style=for-the-badge)]()
-[![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)]()
-
-</div>
-
 ---
 
 # 📹 Project Demonstration
@@ -184,7 +174,7 @@ View all subjects assigned to each student.
 ## Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/Student-Data-Organizer.git
+git clone https://github.com/rudhiyansh/Student-Data-Organizer.git
 ```
 
 ---
@@ -242,7 +232,7 @@ This project helped in understanding:
 
 Python Developer | Beginner Projects | Learning DSA & Python
 
-GitHub: https://github.com/yourusername
+GitHub: https://github.com/rudhiyansh
 
 ---
 
